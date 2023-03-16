@@ -35,6 +35,7 @@ h2 {
     border-width: thick;
     color: white;
     background-color: #E6563b;
+    margin: 25px;
 }
 
 #orange{
@@ -47,6 +48,7 @@ h2 {
     border-width: thick;
     color: white;
     background-color: #EB9D3A;
+    margin: 25px;
 }
 
 #green{
@@ -59,6 +61,7 @@ h2 {
     border-width: thick;
     color: white;
     background-color: #7CB06C;
+    margin: 25px;
 }
 
 #blue{
@@ -70,5 +73,42 @@ h2 {
     border-color: white;
     border-width: thick;
     color: white;
+    background-color: #00ABA9;
+    margin: 25px;
+}
+
+#red1 {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    font-size: 15px;
+    font-family: anton;
+    background-color: #E6563b;
+}
+
+#orange1 {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    font-size: 15px;
+    font-family: anton;
+    background-color: #EB9D3A;
+}
+
+#green1 {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    font-size: 15px;
+    font-family: anton;
+    background-color: #7CB06C;
+}
+
+#blue1 {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    font-size: 15px;
+    font-family: anton;
     background-color: #00ABA9;
 }
