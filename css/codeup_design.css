@@ -13,7 +13,7 @@ body{
     background-color: #F0F0F0;
 }
 
-.navbar-nav {
+.navbar-nav{
     margin-left: 30px;
 }
 
@@ -124,6 +124,28 @@ h2 {
 .work{
     font-size: 10px;
 }
+
+a{
+    font-family: anton;
+    text-decoration: none;
+}
+
+a:link {
+    color: black;
+}
+
+a:hover{
+    color: pink;
+}
+
+a:visited{
+    color: #302f35;
+}
+
+a:active{
+    color: #00ABA9;
+}
+
 img{
     border-color: #E6E6E6;
     border-width: thick;
@@ -139,6 +161,8 @@ h3 {
 .empty{
     width: 4%;
 }
+
+
 
 /*.bttn{*/
 /*    margin-left: 10%;*/
